@@ -29,8 +29,11 @@ https://www.mecanizadossinc.com/sistema-cnc-control-numerico-por-computadora/
 
 
 ## Control Secuencial:
+El control secuencial permite implementar circuitos para el control y automatización de procesos, mediante el empleo de dispositivos electromagnéticos (relevadores, temporizadores y contadores), circuitos digitales (flip-flops RS) y controladores lógicos programables (CLP´s). Estos elementos de control son ampliamente empleados en la industria, por lo que se requiere interpretar su funcionamiento y manipulación.
 
-
+Objetivo: El alumno desarrollará la capacidad para implementar circuitos para el control y automatización de procesos, empleando las técnicas de control con contactos
+(relevadores electromagnéticos, temporizadores y contadores), control secuencial digital (flip-flops RS) y el control por Controladores Lógicos Programables. 
+http://www.upbc.edu.mx/im/Manuales%20de%20Asignatura/plan%202006/sexto%20cuatrimestre/Control%20secuencial.pdf (universidad de mexico)
 ## Diseño Geométrico: (esta no estoy seguro)
 
 El Diseño geométrico de carreteras es la técnica de ingeniería civil que consiste en situar el trazado de una carretera o calle en el terreno. Los condicionantes para situar una carretera sobre la superficie son muchos, entre ellos la topografía del terreno, la geología, el medio ambiente, la hidrología o factores sociales y urbanísticos.1​ El primer paso para el trazado de una carretera es un estudio de viabilidad2​ que determine el corredor donde podría situarse el trazado de la vía. Generalmente se estudian varios corredores y se estima cuál puede ser el coste ambiental, económico o social de la construcción de la carretera. Una vez elegido un corredor se determina el trazado exacto, minimizando el coste y estimando en el proyecto de construcción el costo total, especialmente el que supondrá el volumen de tierra desplazado y el firme necesario.
@@ -62,16 +65,33 @@ Capacidad de un algoritmo de adquirir conocimiento a partir de los datos recolec
 
 ### Estrategias de Aprendizaje:
 
-    - Aprendizaje Supervisado: Permite al algoritmo aprender a partir de datos previamente etiquetados.
-    - Aprendizaje no Supervisado: El algoritmo aprende de datos sin etiquetas, es decir encuentra similitudes y relaciones, agrupando y clasificando los datos.
-    - Aprendizaje Profundo (Deep Learning): Está basado en redes Neuronales
+- Aprendizaje Supervisado: Permite al algoritmo aprender a partir de datos previamente etiquetados.
+- Aprendizaje no Supervisado: El algoritmo aprende de datos sin etiquetas, es decir encuentra similitudes y relaciones, agrupando y clasificando los datos.
+- Aprendizaje Profundo (Deep Learning): Está basado en redes Neuronales
 Importancia del IA:
 Permite a los algoritmos aprender a partir de datos históricos recolectados por las empresas permitiendo así tomar mejores decisiones.
 
 ## Interfaces y Transductores:
 ![Esta es una imagen de ejemplo](https://ejemplo.com/imagen.jpg)
-## Matemáticas Directas para Diseño Geométrico: ( Querra decir "matematicas discretas?" no encuentro directas... )
+## Matemáticas Directas para Diseño Geométrico: ( Querra decir "matematicas discretas?" no existen directas... )
 ## Métodos de Análisis Ingeniería:
 ## Procesamiento Digital de Señales:
+Podemos decir que cuando realizamos cualquier proceso digital para modificar la
+representación digital de una señal estamos haciendo procesado digital. Como proceso
+digital puede ser desde el más sencillo realizado por una puerta lógica al más complejo
+realizado por un circuito especifico de procesador digital de señales (DSP).
+
+Cuando hablamos de proceso digital nos estamos refiriendo habitualmente a un programa
+que funciona en un PC, microcontrolador, DSP o dispositivos de lógica programable.
+Una posible definición de procesado digital de señales es la siguiente:
+“El Procesado Digital de Señales se ocupa de la representación, transformación y
+manipulación de señales discretas desde el punto de vista de la información que
+contienen”
+http://ocw.uv.es/ingenieria-y-arquitectura/1-1/tema1.pdf
+
 ## Programación orientada a la Automatización:
+Objetivo:
+Brindar al alumno las herramientas de diseño de programas orientados a la automatización de maquinaria y procesos industriales. El estudiante conocerá ambientes para el rápido desarrollo de aplicaciones. Con ello podrá crear un sistema integrado desde donde sea posible monitorear, controlar y tomar decisiones en tiempo real sobre su proceso.
+http://posgrado.fime.uanl.mx/PaginaMaestria/ing_joseluiscastillo/pagina_mecatronica/index_archivos/Page1065.htm
+ 
 ## Secuenciamiento y Programación de tareas en sistemas de manufactura:
