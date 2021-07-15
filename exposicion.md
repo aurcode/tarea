@@ -72,9 +72,17 @@ Importancia del IA:
 Permite a los algoritmos aprender a partir de datos históricos recolectados por las empresas permitiendo así tomar mejores decisiones.
 
 ## Interfaces y Transductores:
-![Esta es una imagen de ejemplo](https://ejemplo.com/imagen.jpg)
+El estudiante comprenderá la problemática asociada a los sensores y acondicionamiento de señales para implementar una máquina o sistema automático de producción
+http://posgrado.fime.uanl.mx/PaginaMaestria/Dra_Beatriz_Cristina_Lopez_Walle/pagina_mecatronica/plan_de_estudios/imagenes_plan_de_estudios/it.jpg
+
 ## Matemáticas Directas para Diseño Geométrico: ( Querra decir "matematicas discretas?" no existen directas... )
+La matemática discreta estudia una serie de estructuras como algoritmos, grafos y teoría de números, que son el fundamento de las ciencias de la computación. 
+https://www.galileo.edu/trends-innovation/que-es-la-matematica-discreta/
+Objetivo: Esta materia brinda a los estudiantes los principales conocimientos en el campo de los sistemas de automatización. Dentro de la clase se cubrirán tópicos como: algoritmos, modelos de decisión y programación (esta info es de otra universidad en mx)
+http://posgrado.fime.uanl.mx/PaginaMaestria/Dra_Beatriz_Cristina_Lopez_Walle/pagina_mecatronica/plan_de_estudios/imagenes_plan_de_estudios/mdpdg.jpg
+
 ## Métodos de Análisis Ingeniería:
+
 ## Procesamiento Digital de Señales:
 Podemos decir que cuando realizamos cualquier proceso digital para modificar la
 representación digital de una señal estamos haciendo procesado digital. Como proceso
@@ -95,3 +103,5 @@ Brindar al alumno las herramientas de diseño de programas orientados a la autom
 http://posgrado.fime.uanl.mx/PaginaMaestria/ing_joseluiscastillo/pagina_mecatronica/index_archivos/Page1065.htm
  
 ## Secuenciamiento y Programación de tareas en sistemas de manufactura:
+Objetivo: Desarrrollar en el estudiante la habilidad de modelar y resolver problemas de toma de decisiones que se presentan en sistemas donde una serie de tareas deben ser procesadas por uno o varios servidores de la forma más efectiva. Se provee al estudiante con los fundamentos teóricos que le permiten comprender a fondo la interrelación entre los diversos componentes del sistema de producción, así como también las metodologías más adecuadas para resolverlo
+http://posgrado.fime.uanl.mx/PaginaMaestria/Dra_Beatriz_Cristina_Lopez_Walle/pagina_mecatronica/plan_de_estudios/imagenes_plan_de_estudios/sypdtesdm.jpg
