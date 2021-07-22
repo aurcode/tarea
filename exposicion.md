@@ -1,6 +1,23 @@
 
 # Lista de electivas
 
+## Division de los puntos
+### Marco Aurelio: 
+* control numérico por computadora
+* Control secuencial
+* Diseño geométrico
+* Ingeniería concurrente
+* Ingeniería inversa
+* Inteligencia artificial
+
+#### Nathaly:
+* Interfases y transductores
+* Matemáticas directas para diseño geométrico
+* Métodos de análisis ingeniería
+* Procesamiento digital de señales
+* Programación orientada a la automatización
+* Secuenciamiento y programación de tareas en sistemas de manufactura.
+
 ## Control Difuso:
 
 Una de las principales aplicaciones de la lógica difusa es el diseño de sistemas de
