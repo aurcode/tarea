@@ -11,7 +11,7 @@
 * Inteligencia artificial
 
 #### Nathaly:
-* Interfases y transductores
+* Interfaces y transductores
 * Matemáticas directas para diseño geométrico
 * Métodos de análisis ingeniería
 * Procesamiento digital de señales
@@ -115,8 +115,19 @@ contienen”
 http://ocw.uv.es/ingenieria-y-arquitectura/1-1/tema1.pdf
 
 ## Programación orientada a la Automatización:
+Concepto: Los procesos industriales de hoy en día, tienen cada vez la necesidad mayor de la automatización para su mejora y aumento en la capacidad de producción. Por ello, es necesario entender cuáles son los dispositivos de control y monitoreo en la industria, y cómo interactúan entre ellos. Uno de los principales componentes en la automatización de los procesos industriales son los Controladores Lógicos Programables (PLC).
+
 Objetivo:
 Brindar al alumno las herramientas de diseño de programas orientados a la automatización de maquinaria y procesos industriales. El estudiante conocerá ambientes para el rápido desarrollo de aplicaciones. Con ello podrá crear un sistema integrado desde donde sea posible monitorear, controlar y tomar decisiones en tiempo real sobre su proceso.
+
+## TEMARIO:
+· Herramientas para la rápida conexión y monitoreo en tiempo real de señales de sensores, dispositivos y redes industriales
+· Principios de la programación en tiempo real
+· Plataformas de adquisición y control de señales industriales desde tarjetas de
+· adquisición de datos y módulos distribuidos inteligentes
+· Programación de sistemas multitarea
+· Monitoreo remoto a través de la Web y el registro histórico de datos y eventos de un sistema
+· Sistemas de monitoreo y control integrados con otro tipo de mediciones industriales como adquisición de imágenes y análisis de vibraciones
 http://posgrado.fime.uanl.mx/PaginaMaestria/ing_joseluiscastillo/pagina_mecatronica/index_archivos/Page1065.htm
  
 ## Secuenciamiento y Programación de tareas en sistemas de manufactura:
