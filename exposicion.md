@@ -99,12 +99,21 @@ Objetivo: Esta materia brinda a los estudiantes los principales conocimientos en
 http://posgrado.fime.uanl.mx/PaginaMaestria/Dra_Beatriz_Cristina_Lopez_Walle/pagina_mecatronica/plan_de_estudios/imagenes_plan_de_estudios/mdpdg.jpg
 
 ## Métodos de Análisis Ingeniería:
+El análisis de ingeniería implica la aplicación de principios y procesos analíticos científicos para revelar las propiedades y el estado de un sistema, dispositivo o mecanismo en estudio.
+
+El análisis de ingeniería es descomposicional: procede separando el diseño de ingeniería en los mecanismos de funcionamiento o fallo, analizando o estimando cada componente del mecanismo de funcionamiento o fallo de forma aislada, y recombinando los componentes según los principios físicos básicos y las leyes naturales.
+
+Sistemas remotos
+El análisis de ingeniería es el principal método para predecir y tratar los problemas de los sistemas remotos, como los satélites y los vehículos de exploración. El análisis de ingeniería de los sistemas remotos debe ser continuo, ya que la salud y la seguridad del sistema remoto sólo pueden verse afectadas a distancia (y porque cualquier fallo podría tener consecuencias fatales).
+
+Por lo tanto, las capacidades de análisis de ingeniería deben incorporar tendencias además de análisis. Las tendencias deben ser proactivas, predictivas, exhaustivas y automatizadas. El análisis debe ser reactivo, de investigación, específico y práctico. Juntos, la tendencia y el análisis permiten a los operadores predecir situaciones potenciales e identificar eventos anómalos que amenazan un sistema remoto.
+
+https://en.wikipedia.org/wiki/Engineering_analysis
+
+Importancia de análisis de ingeniería para el desarrollo de productos: https://medium.com/@sgwdesignworks/how-important-is-engineering-analysis-for-product-development-d659ec7aea21
 
 ## Procesamiento Digital de Señales:
-Podemos decir que cuando realizamos cualquier proceso digital para modificar la
-representación digital de una señal estamos haciendo procesado digital. Como proceso
-digital puede ser desde el más sencillo realizado por una puerta lógica al más complejo
-realizado por un circuito especifico de procesador digital de señales (DSP).
+Podemos decir que cuando realizamos cualquier proceso digital para modificar la representación digital de una señal estamos haciendo procesado digital. Como proceso digital puede ser desde el más sencillo realizado por una puerta lógica al más complejo realizado por un circuito especifico de procesador digital de señales (DSP).
 
 Cuando hablamos de proceso digital nos estamos refiriendo habitualmente a un programa
 que funciona en un PC, microcontrolador, DSP o dispositivos de lógica programable.
@@ -132,4 +141,14 @@ http://posgrado.fime.uanl.mx/PaginaMaestria/ing_joseluiscastillo/pagina_mecatron
  
 ## Secuenciamiento y Programación de tareas en sistemas de manufactura:
 Objetivo: Desarrrollar en el estudiante la habilidad de modelar y resolver problemas de toma de decisiones que se presentan en sistemas donde una serie de tareas deben ser procesadas por uno o varios servidores de la forma más efectiva. Se provee al estudiante con los fundamentos teóricos que le permiten comprender a fondo la interrelación entre los diversos componentes del sistema de producción, así como también las metodologías más adecuadas para resolverlo
+
+### TEMARIO:
+· Conceptos preliminares de problemas de programación y secuenciamiento detareas
+· Modelos de tareas procesadas en sistemas de un solo servidor
+· Modelos de sistemas de varias máquinas en paralelo Optimización
+· Modelos de sistemas de líneas de ensamblado
+· Modelos de sistemas de líneas abiertas
+· Procedimientos generales de solución de problemas de secuenciamiento
+· Modelos de sistemas probabilísticos de secuenciamiento
+· Aplicaciones
 http://posgrado.fime.uanl.mx/PaginaMaestria/Dra_Beatriz_Cristina_Lopez_Walle/pagina_mecatronica/plan_de_estudios/imagenes_plan_de_estudios/sypdtesdm.jpg
