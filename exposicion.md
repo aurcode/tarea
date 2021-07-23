@@ -2,7 +2,7 @@
 # Lista de electivas
 
 ## Division de los puntos
-### Marco Aurelio: 
+### Aurelio: 
 * control numérico por computadora
 * Control secuencial
 * Diseño geométrico
@@ -10,7 +10,7 @@
 * Ingeniería inversa
 * Inteligencia artificial
 
-#### Nathaly:
+### Nathaly:
 * Interfaces y transductores
 * Matemáticas directas para diseño geométrico
 * Métodos de análisis ingeniería
@@ -117,10 +117,10 @@ http://ocw.uv.es/ingenieria-y-arquitectura/1-1/tema1.pdf
 ## Programación orientada a la Automatización:
 Concepto: Los procesos industriales de hoy en día, tienen cada vez la necesidad mayor de la automatización para su mejora y aumento en la capacidad de producción. Por ello, es necesario entender cuáles son los dispositivos de control y monitoreo en la industria, y cómo interactúan entre ellos. Uno de los principales componentes en la automatización de los procesos industriales son los Controladores Lógicos Programables (PLC).
 
-Objetivo:
+### Objetivo:
 Brindar al alumno las herramientas de diseño de programas orientados a la automatización de maquinaria y procesos industriales. El estudiante conocerá ambientes para el rápido desarrollo de aplicaciones. Con ello podrá crear un sistema integrado desde donde sea posible monitorear, controlar y tomar decisiones en tiempo real sobre su proceso.
 
-## TEMARIO:
+### TEMARIO:
 · Herramientas para la rápida conexión y monitoreo en tiempo real de señales de sensores, dispositivos y redes industriales
 · Principios de la programación en tiempo real
 · Plataformas de adquisición y control de señales industriales desde tarjetas de
