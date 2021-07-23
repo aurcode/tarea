@@ -90,6 +90,18 @@ Permite a los algoritmos aprender a partir de datos históricos recolectados por
 
 ## Interfaces y Transductores:
 El estudiante comprenderá la problemática asociada a los sensores y acondicionamiento de señales para implementar una máquina o sistema automático de producción
+
+TEMARIO:
+- Introducción a los sistemas de instrumentación
+- Sistemas de transducción
+- Sistemas de acondicionamiento electrónico
+- Técnicas de medición
+- Medición dimensional, de movimiento, de fuerza, de presión, de flujo, de
+- temperatura y calor
+- Metrología de superficies
+- Adquisición y manipulación de datos
+- Aplicaciones
+http://posgrado.fime.uanl.mx/PaginaMaestria/ing_joseluiscastillo/pagina_mecatronica/index_archivos/Page983.htm
 http://posgrado.fime.uanl.mx/PaginaMaestria/Dra_Beatriz_Cristina_Lopez_Walle/pagina_mecatronica/plan_de_estudios/imagenes_plan_de_estudios/it.jpg
 
 ## Matemáticas Directas para Diseño Geométrico: ( Querra decir "matematicas discretas?" no existen directas... )
@@ -130,25 +142,28 @@ Concepto: Los procesos industriales de hoy en día, tienen cada vez la necesidad
 Brindar al alumno las herramientas de diseño de programas orientados a la automatización de maquinaria y procesos industriales. El estudiante conocerá ambientes para el rápido desarrollo de aplicaciones. Con ello podrá crear un sistema integrado desde donde sea posible monitorear, controlar y tomar decisiones en tiempo real sobre su proceso.
 
 ### TEMARIO:
-· Herramientas para la rápida conexión y monitoreo en tiempo real de señales de sensores, dispositivos y redes industriales
-· Principios de la programación en tiempo real
-· Plataformas de adquisición y control de señales industriales desde tarjetas de
-· adquisición de datos y módulos distribuidos inteligentes
-· Programación de sistemas multitarea
-· Monitoreo remoto a través de la Web y el registro histórico de datos y eventos de un sistema
-· Sistemas de monitoreo y control integrados con otro tipo de mediciones industriales como adquisición de imágenes y análisis de vibraciones
+- Herramientas para la rápida conexión y monitoreo en tiempo real de señales de sensores, dispositivos y redes industriales
+- Principios de la programación en tiempo real
+- Plataformas de adquisición y control de señales industriales desde tarjetas de
+- adquisición de datos y módulos distribuidos inteligentes
+- Programación de sistemas multitarea
+- Monitoreo remoto a través de la Web y el registro histórico de datos y eventos de un sistema
+- Sistemas de monitoreo y control integrados con otro tipo de mediciones industriales como adquisición de imágenes y análisis de vibraciones
 http://posgrado.fime.uanl.mx/PaginaMaestria/ing_joseluiscastillo/pagina_mecatronica/index_archivos/Page1065.htm
  
 ## Secuenciamiento y Programación de tareas en sistemas de manufactura:
 Objetivo: Desarrrollar en el estudiante la habilidad de modelar y resolver problemas de toma de decisiones que se presentan en sistemas donde una serie de tareas deben ser procesadas por uno o varios servidores de la forma más efectiva. Se provee al estudiante con los fundamentos teóricos que le permiten comprender a fondo la interrelación entre los diversos componentes del sistema de producción, así como también las metodologías más adecuadas para resolverlo
 
 ### TEMARIO:
-· Conceptos preliminares de problemas de programación y secuenciamiento detareas
-· Modelos de tareas procesadas en sistemas de un solo servidor
-· Modelos de sistemas de varias máquinas en paralelo Optimización
-· Modelos de sistemas de líneas de ensamblado
-· Modelos de sistemas de líneas abiertas
-· Procedimientos generales de solución de problemas de secuenciamiento
-· Modelos de sistemas probabilísticos de secuenciamiento
-· Aplicaciones
+- Conceptos preliminares de problemas de programación y secuenciamiento detareas
+- Modelos de tareas procesadas en sistemas de un solo servidor
+- Modelos de sistemas de varias máquinas en paralelo Optimización
+- Modelos de sistemas de líneas de ensamblado
+- Modelos de sistemas de líneas abiertas
+- Procedimientos generales de solución de problemas de secuenciamiento
+- Modelos de sistemas probabilísticos de secuenciamiento
+- Aplicaciones
 http://posgrado.fime.uanl.mx/PaginaMaestria/Dra_Beatriz_Cristina_Lopez_Walle/pagina_mecatronica/plan_de_estudios/imagenes_plan_de_estudios/sypdtesdm.jpg
+
+
+# Basicamente toda la informacion la saque de una pagina de una uny de mx, no hay casi nada de informacion xd
