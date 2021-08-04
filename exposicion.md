@@ -77,15 +77,10 @@ https://es.wikipedia.org/wiki/Ingenier%C3%ADa_inversa
 **El objetivo de esta materia es brindar al estudiante de Ing. Mecatrónica herramientas de programacion que le permitan crear proyectos con un grado de inteligencia avanzado, ademas de envolverlo en los conceptos teoricos y conocimientos practicos de la inteligencia artificial, como lo son la logica difusa, redes neuronales y los algoritmos geneticos.**
 https://bqto.virtualunexpo.com/enrol/index.php?id=1361 (lo que sale en la pagina ps)
 
-Concepto:
+Concepto 1:
 Capacidad de un algoritmo de adquirir conocimiento a partir de los datos recolectados para mejorar, describir y predecir resultados
 
-### Estrategias de Aprendizaje:
-
-- Aprendizaje Supervisado: Permite al algoritmo aprender a partir de datos previamente etiquetados.
-- Aprendizaje no Supervisado: El algoritmo aprende de datos sin etiquetas, es decir encuentra similitudes y relaciones, agrupando y clasificando los datos.
-- Aprendizaje Profundo (Deep Learning): Está basado en redes Neuronales
-Importancia del IA:
+Concepto 2:
 Permite a los algoritmos aprender a partir de datos históricos recolectados por las empresas permitiendo así tomar mejores decisiones.
 
 ## Interfaces y Transductores:
